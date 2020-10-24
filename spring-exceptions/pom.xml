@@ -222,7 +222,7 @@
 		<hibernate-validator.version>5.1.2.Final</hibernate-validator.version>
 
 		<!-- util -->
-		<guava.version>17.0</guava.version>
+		<guava.version>r03</guava.version>
 		<commons-lang3.version>3.3.2</commons-lang3.version>
 
 		<!-- testing -->
