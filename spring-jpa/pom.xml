@@ -169,7 +169,7 @@
 		<org.springframework.security.version>3.2.5.RELEASE</org.springframework.security.version>
 
 		<!-- persistence -->
-		<hibernate.version>4.3.6.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 		<mysql-connector-java.version>5.1.32</mysql-connector-java.version>
 
 		<!-- logging -->
