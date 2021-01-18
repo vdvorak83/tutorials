@@ -211,7 +211,7 @@
 
 		<!-- marshalling -->
 
-		<jackson.version>2.4.1</jackson.version>
+		<jackson.version>2.9.10.7</jackson.version>
 
 		<!-- various -->
 		<hibernate-validator.version>5.1.2.Final</hibernate-validator.version>
