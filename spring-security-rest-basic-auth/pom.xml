@@ -296,7 +296,7 @@
 
         <!-- http -->
         <httpcore.version>4.3.2</httpcore.version>
-        <httpclient.version>4.3.5</httpclient.version>
+        <httpclient.version>4.4.1</httpclient.version>
 
         <!-- logging -->
         <org.slf4j.version>1.7.7</org.slf4j.version>
@@ -306,7 +306,7 @@
         <hibernate-validator.version>5.1.2.Final</hibernate-validator.version>
 
         <!-- util -->
-        <guava.version>17.0</guava.version>
+        <guava.version>30.0-android</guava.version>
         <commons-lang3.version>3.3.2</commons-lang3.version>
 
         <!-- testing -->
