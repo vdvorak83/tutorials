@@ -231,7 +231,7 @@
 
 	<properties>
 		<!-- Spring -->
-		<org.springframework.version>4.0.6.RELEASE</org.springframework.version>
+		<org.springframework.version>4.3.30.RELEASE</org.springframework.version>
 		<org.springframework.security.version>3.2.5.RELEASE</org.springframework.security.version>
 
 		<!-- persistence -->
