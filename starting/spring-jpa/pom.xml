@@ -189,7 +189,7 @@
 		<hibernate-validator.version>5.0.2.Final</hibernate-validator.version>
 
 		<!-- util -->
-		<guava.version>16.0-rc1</guava.version>
+		<guava.version>16.0.1</guava.version>
 		<commons-lang3.version>3.2.1</commons-lang3.version>
 
 		<!-- testing -->
