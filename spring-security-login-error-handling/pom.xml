@@ -131,7 +131,7 @@
 		<org.slf4j.version>1.7.6</org.slf4j.version>
 		<logback.version>1.1.1</logback.version>
 		<!-- javax jsp -->
-		<javax.servlet.jsp-api.version>2.3.2-b01</javax.servlet.jsp-api.version>
+		<javax.servlet.jsp-api.version>2.3.3</javax.servlet.jsp-api.version>
 		<!-- Inject -->
 		<javax.inject.version>1</javax.inject.version>
 		<!-- Spring Data Jpa -->
